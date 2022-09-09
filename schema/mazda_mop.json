@@ -1,0 +1,1134 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "anyOf": [
+        {
+            "$ref": "#/$defs/var"
+        },
+        {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+                "$ref": "#/$defs/var"
+            }
+        }
+    ],
+    "$defs": {
+        "var": {
+            "type": "array",
+            "minItems": 222,
+            "maxItems": 222,
+            "items": [
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.50
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 0.95
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.35,
+                    "maximum": 1.00
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.50,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.70,
+                    "maximum": 1.50
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.60
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.50,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.50
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.50
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 1.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 1.20
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 0.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.40,
+                    "maximum": 1.00
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.20
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.40,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.70,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.40,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.50,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.20
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 0.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 0.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.20
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 1.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.70,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.70,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 2.00,
+                    "maximum": 2.60
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 0.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 1.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.50
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.50,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.60
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.70,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 2.00,
+                    "maximum": 2.60
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.50
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 0.95
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.35,
+                    "maximum": 1.00
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.50,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.70,
+                    "maximum": 1.50
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.60
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.50,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.50
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.50
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 1.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 1.20
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 0.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.40,
+                    "maximum": 1.00
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.20
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.40,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.70,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.40,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.50,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.20
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 0.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 0.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.20
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 1.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.70,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.70,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 2.00,
+                    "maximum": 2.60
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 0.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 1.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.50
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.50,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.60
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.70,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 2.00,
+                    "maximum": 2.60
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.50
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 0.95
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.35,
+                    "maximum": 1.00
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.50,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.70,
+                    "maximum": 1.50
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.60
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.50,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.50
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.50
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 1.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 1.20
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 0.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.40,
+                    "maximum": 1.00
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.20
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.40,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.70,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.40,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.50,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.20
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 0.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 0.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.20
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 1.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.70,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.70,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 2.00,
+                    "maximum": 2.60
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 0.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.60,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 1.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.30,
+                    "maximum": 1.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.30,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.50
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.50,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.60
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.70,
+                    "maximum": 2.10
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.10,
+                    "maximum": 1.90
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.90,
+                    "maximum": 1.70
+                },
+                {
+                    "type": "number",
+                    "minimum": 1.70,
+                    "maximum": 2.30
+                },
+                {
+                    "type": "number",
+                    "minimum": 2.00,
+                    "maximum": 2.60
+                },
+                {
+                    "type": "number",
+                    "minimum": 0.50,
+                    "maximum": 1.30
+                }
+            ]
+        }
+    }
+}
